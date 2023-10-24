@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.e8b01dcc.css",
-    "main.js": "/static/js/main.e4b4b81a.js",
-    "static/js/787.719ec76d.chunk.js": "/static/js/787.719ec76d.chunk.js",
-    "index.html": "/index.html",
-    "main.e8b01dcc.css.map": "/static/css/main.e8b01dcc.css.map",
-    "main.e4b4b81a.js.map": "/static/js/main.e4b4b81a.js.map",
-    "787.719ec76d.chunk.js.map": "/static/js/787.719ec76d.chunk.js.map"
+    "main.css": "/FIRSTREPO/static/css/main.e8b01dcc.css",
+    "main.js": "/FIRSTREPO/static/js/main.d47b4a0b.js",
+    "static/js/787.719ec76d.chunk.js": "/FIRSTREPO/static/js/787.719ec76d.chunk.js",
+    "index.html": "/FIRSTREPO/index.html",
+    "main.e8b01dcc.css.map": "/FIRSTREPO/static/css/main.e8b01dcc.css.map",
+    "main.d47b4a0b.js.map": "/FIRSTREPO/static/js/main.d47b4a0b.js.map",
+    "787.719ec76d.chunk.js.map": "/FIRSTREPO/static/js/787.719ec76d.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.e8b01dcc.css",
-    "static/js/main.e4b4b81a.js"
+    "static/js/main.d47b4a0b.js"
   ]
 }
